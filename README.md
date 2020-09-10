@@ -16,7 +16,7 @@
 ### The font-weight property allows you to create bold text. There are two values that this property commonly takes:
 - [x] normal: This causes text to appear at a normal weight.
 
--[x] bold: This causes text to appear bold.
+- [x] bold: This causes text to appear bold.
 
 ## Italic (font-style)
 ### If you want to create italic text, you can use the font-style property. There are three values this property can take:
